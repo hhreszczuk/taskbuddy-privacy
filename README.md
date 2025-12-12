@@ -35,4 +35,4 @@ Task Buddy does not knowingly collect any information from children.
 
 ## Contact
 
-If you have questions, contact us at: [your-email@example.com]
+If you have questions, contact us at: h.hreszczuk@icloud.com
